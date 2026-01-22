@@ -1,4 +1,5 @@
 <sdk-manifest-list version="2.0" >
   <sdk-manifest>
+    <uri>https://github.com/Infineon/mtb-sdk-20829-json/raw/main/mtb-sdk-manifest-20829b1.json</uri>
   </sdk-manifest>
 </sdk-manifest-list>
